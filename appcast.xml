@@ -3,11 +3,11 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.0.856</title>
-      <pubDate>2026-07-31T22:22:12+08:00</pubDate>
+      <title>Niko 1.0.860</title>
+      <pubDate>2026-07-31T23:22:08+08:00</pubDate>
       <description>修复
-  屏幕录制权限体验：移除自定义权限横幅，只保留 macOS 原始权限弹窗；已有权限时不重复请求。</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.0.856/Niko-1.0.856.zip" length="131848201" type="application/octet-stream" sparkle:version="856" sparkle:shortVersionString="1.0.856" sparkle:edSignature="SUXzzSspjbeFY+zRsqJMNa1lnb04Uo9so3P1RN2x/KsT1Jf3R/8r4eaGCZ4S4YnOlmr6zy5vvkb3tPjFbZh1AA==" />
+  屏幕录制权限反复弹窗：首次显示 macOS 原始权限弹窗，之后重启不再重复打扰；移除所有自定义权限横幅。</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.0.860/Niko-1.0.860.zip" length="131848126" type="application/octet-stream" sparkle:version="860" sparkle:shortVersionString="1.0.860" sparkle:edSignature="nbhWmDesTVEmKKNWcyIM9bYFiU8soW2JE/6956G2Mx+Hkdidu0RODvAzYEj3sDen+Iw2z3fM2tTU9Rko3tgBAg==" />
     </item>
   </channel>
 </rss>
