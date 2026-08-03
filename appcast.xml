@@ -3,10 +3,13 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.854</title>
-      <pubDate>2026-08-03T19:39:20+08:00</pubDate>
-      <description>修复连续消息回复丢失</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.854/Niko-1.1.854.zip" length="131809398" type="application/octet-stream" sparkle:version="1010854" sparkle:shortVersionString="1.1.854" sparkle:edSignature="pR2FyQf2a2mJBE1MtEA8dU6ilvc/ViRGvoqw9YRRElhwoBP3QJL6sQeDs4WxIWQRTfg7sSyXyGeM4/LyI0beDQ==" />
+      <title>Niko 1.1.856</title>
+      <pubDate>2026-08-03T20:31:29+08:00</pubDate>
+      <description>启用自动更新小包通道</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.856/Niko-1.1.856.zip" length="131854121" type="application/octet-stream" sparkle:version="1010856" sparkle:shortVersionString="1.1.856" sparkle:edSignature="zYCoQdr7bChgEBIfHoVa2dFmRrK1ptyshGNJZjm6WhHbpzFzJWbCEcmnAjz7hQZBosH3a3QVelPVv80w78ZdAw==" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.856/Niko-1.1.854-to-1.1.856.delta" length="5354" type="application/octet-stream" sparkle:deltaFrom="1010854" sparkle:edSignature="nCmYons+NAsnRCWZOv9MK6I7AnpYR9vU0L9jO9BivTtTIDTrPU1rOQahG10v6/L/2OneWY26viPzOcHrEq7IDg==" />
+      </sparkle:deltas>
     </item>
   </channel>
 </rss>
