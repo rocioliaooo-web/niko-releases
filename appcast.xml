@@ -3,10 +3,10 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.838</title>
-      <pubDate>2026-08-03T18:41:31+08:00</pubDate>
-      <description>修复番茄钟重复填写和专注色彩条窗口标题</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.838/Niko-1.1.838.zip" length="131803305" type="application/octet-stream" sparkle:version="1010838" sparkle:shortVersionString="1.1.838" sparkle:edSignature="4mf5pf7BnzrBQdsQNyZ0l6QZq3PgRroBCm1+Rf7/+dhWo7ZoVptuVzfGPGwNpI3K4Xfz6Qb2cDpVRc2IEH9DDA==" />
+      <title>Niko 1.1.844</title>
+      <pubDate>2026-08-03T19:15:06+08:00</pubDate>
+      <description>修复番茄钟重复填写与窗口标题权限问题</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.844/Niko-1.1.844.zip" length="131805875" type="application/octet-stream" sparkle:version="1010844" sparkle:shortVersionString="1.1.844" sparkle:edSignature="XFJFHYcQwjp6gYmgsQO/YlWz9AhbkEGT+XwgyG+3zPuJSXl8IJmcA5S0yOI/ZaJM2xFIu8WlSI5GdxCo0WGzDw==" />
     </item>
   </channel>
 </rss>
