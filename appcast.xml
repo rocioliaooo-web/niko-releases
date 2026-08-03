@@ -3,12 +3,14 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.858</title>
-      <pubDate>2026-08-03T21:57:19+08:00</pubDate>
-      <description>修复三位分钟倒计时像素字体显示异常</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.858/Niko-1.1.858.zip" length="131852691" type="application/octet-stream" sparkle:version="1010858" sparkle:shortVersionString="1.1.858" sparkle:edSignature="LkZsE97FFAMcrux0W3oJL0FpbETj8zqDOa9yaUXLOCDcc5qhnZRmSPVXL6v3+uDsTFIkfr1y9gO/AljpF881Aw==" />
+      <title>Niko 1.1.861</title>
+      <sparkle:version>1010861</sparkle:version>
+      <sparkle:shortVersionString>1.1.861</sparkle:shortVersionString>
+      <pubDate>2026-08-03T22:35:43+08:00</pubDate>
+      <description>修复小更新仍下载完整安装包，并修复三位分钟倒计时字体显示</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.861/Niko-1.1.861.zip" length="131854668" type="application/octet-stream" sparkle:version="1010861" sparkle:shortVersionString="1.1.861" sparkle:edSignature="nq8iHaLwVu2dCW168813kE0jcWev4eUGQ+GY+phDDi5TADQi3lth5z3cKKFJVPF6B3FTJ6pdOwUzSiT63Kx4Cg==" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.858/Niko-1.1.856-to-1.1.858.delta" length="5438" type="application/octet-stream" sparkle:deltaFrom="1010856" sparkle:edSignature="e09FYxRitmMUY7kB03ynMGgi8FChN5HH/ByKWEpSkdYpczDkbWxAbXapIbVnmxwyVStWdIMqmO1Sa41vY6w2AA==" />
+        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.861/Niko-1.1.858-to-1.1.861.delta" length="5386" type="application/octet-stream" sparkle:deltaFrom="1010858" sparkle:edSignature="tPusW56Ov8z+Uri/0cX8BJpCtap/GRA6qPx7Z+M+wPAIDtj1Q+Kgutsz2kGND+WOodJOUj14TzgGyxQNZ/a+AA==" />
       </sparkle:deltas>
     </item>
   </channel>
