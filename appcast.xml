@@ -3,10 +3,10 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.844</title>
-      <pubDate>2026-08-03T19:15:06+08:00</pubDate>
-      <description>修复番茄钟重复填写与窗口标题权限问题</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.844/Niko-1.1.844.zip" length="131805875" type="application/octet-stream" sparkle:version="1010844" sparkle:shortVersionString="1.1.844" sparkle:edSignature="XFJFHYcQwjp6gYmgsQO/YlWz9AhbkEGT+XwgyG+3zPuJSXl8IJmcA5S0yOI/ZaJM2xFIu8WlSI5GdxCo0WGzDw==" />
+      <title>Niko 1.1.854</title>
+      <pubDate>2026-08-03T19:39:20+08:00</pubDate>
+      <description>修复连续消息回复丢失</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.854/Niko-1.1.854.zip" length="131809398" type="application/octet-stream" sparkle:version="1010854" sparkle:shortVersionString="1.1.854" sparkle:edSignature="pR2FyQf2a2mJBE1MtEA8dU6ilvc/ViRGvoqw9YRRElhwoBP3QJL6sQeDs4WxIWQRTfg7sSyXyGeM4/LyI0beDQ==" />
     </item>
   </channel>
 </rss>
