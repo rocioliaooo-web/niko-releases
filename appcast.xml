@@ -3,10 +3,10 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.0.861</title>
-      <pubDate>2026-08-03T18:12:43+08:00</pubDate>
-      <description>正式主线发布：接入 GitHub 自动更新；修复屏幕录制权限重复弹窗；保留 macOS 原始权限弹窗。</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.0.861/Niko-1.0.861.zip" length="131548021" type="application/octet-stream" sparkle:version="861" sparkle:shortVersionString="1.0.861" sparkle:edSignature="0Im47i7kOtQDVbYPwbM+ih9BdQzVpKav8YsKSCFa0uMrRfE+dMw+Pud+Mf4m3z1quJ6EZHeu4f1TKqQcvgamAw==" />
+      <title>Niko 1.1.838</title>
+      <pubDate>2026-08-03T18:41:31+08:00</pubDate>
+      <description>修复番茄钟重复填写和专注色彩条窗口标题</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.838/Niko-1.1.838.zip" length="131803305" type="application/octet-stream" sparkle:version="1010838" sparkle:shortVersionString="1.1.838" sparkle:edSignature="4mf5pf7BnzrBQdsQNyZ0l6QZq3PgRroBCm1+Rf7/+dhWo7ZoVptuVzfGPGwNpI3K4Xfz6Qb2cDpVRc2IEH9DDA==" />
     </item>
   </channel>
 </rss>
