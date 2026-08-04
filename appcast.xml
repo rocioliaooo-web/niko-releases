@@ -3,11 +3,10 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.875</title>
-      <pubDate>2026-08-04T21:30:47+08:00</pubDate>
-      <description>修复点击 Niko 后主窗口不出现的问题；后台记录与番茄钟改用独立运行身份；更新 Niko App 图标。原有记录和设置
-    都会保留。</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.875/Niko-1.1.875.zip" length="346183566" type="application/octet-stream" sparkle:version="1010875" sparkle:shortVersionString="1.1.875" sparkle:edSignature="b6pZ67pnvYZjsfivJHiP8z0mEy1tyskCX2iqdr7YuHmpv4ZqBypURu4bpZ88wwD5a8i26EEbJWULDOk9WyXCDA==" />
+      <title>Niko 1.1.876</title>
+      <pubDate>2026-08-04T22:40:51+08:00</pubDate>
+      <description>修复后台屏幕录制权限反复弹窗；未授权时后台保持运行并继续记录 App 名称，不再退出重启；保留全部历史数据。</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.876/Niko-1.1.876.zip" length="346143777" type="application/octet-stream" sparkle:version="1010876" sparkle:shortVersionString="1.1.876" sparkle:edSignature="GCEAZe77RN/bxLo9XbiQ3sazsSlaA4YVp4b9zzJ5jL1Ped8MJxW987EqH8VaQCkpociynmPJrTVzkkZK4AfNAw==" />
     </item>
   </channel>
 </rss>
