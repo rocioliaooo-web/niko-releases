@@ -3,15 +3,11 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.874</title>
-      <sparkle:version>1010874</sparkle:version>
-      <sparkle:shortVersionString>1.1.874</sparkle:shortVersionString>
-      <pubDate>2026-08-04T00:30:46+08:00</pubDate>
-      <description>修复120分钟倒计时首位裁切，并让番茄钟胶囊随Niko自动更新</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.874/Niko-1.1.874.zip" length="151358223" type="application/octet-stream" sparkle:version="1010874" sparkle:shortVersionString="1.1.874" sparkle:edSignature="2rP/yfjBXCH2t/8rQuk4rTTpJ/hGhcz1wqeeDDDSioKWdRtoTMp+Lx0SalIPrJE9aZVMO0cHZlAlSG0SrtLXDA==" />
-      <sparkle:deltas>
-        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.874/Niko-1.1.861-to-1.1.874.delta" length="12553494" type="application/octet-stream" sparkle:deltaFrom="1010861" sparkle:edSignature="iFf1CRYbxp3F7gcEkA4qNPavp/ibk1Q8caRX+5KLUTRQ/Bu47IaBtiqXOp5g+bIw+ovtZGO7AwTPJRHWQXBCCg==" />
-      </sparkle:deltas>
+      <title>Niko 1.1.875</title>
+      <pubDate>2026-08-04T21:30:47+08:00</pubDate>
+      <description>修复点击 Niko 后主窗口不出现的问题；后台记录与番茄钟改用独立运行身份；更新 Niko App 图标。原有记录和设置
+    都会保留。</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.875/Niko-1.1.875.zip" length="346183566" type="application/octet-stream" sparkle:version="1010875" sparkle:shortVersionString="1.1.875" sparkle:edSignature="b6pZ67pnvYZjsfivJHiP8z0mEy1tyskCX2iqdr7YuHmpv4ZqBypURu4bpZ88wwD5a8i26EEbJWULDOk9WyXCDA==" />
     </item>
   </channel>
 </rss>
