@@ -3,14 +3,14 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.877</title>
-      <sparkle:version>1010877</sparkle:version>
-      <sparkle:shortVersionString>1.1.877</sparkle:shortVersionString>
-      <pubDate>2026-08-20T22:10:18+08:00</pubDate>
-      <description>发布候选版验收通过：修复后台记录恢复、DeepSeek Chat 402、天气设置、色柱类别保存与同名拦截、番茄钟小窗和待办溢出；更新保留原有用户数据。</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.877/Niko-1.1.877.zip" length="344995688" type="application/octet-stream" sparkle:version="1010877" sparkle:shortVersionString="1.1.877" sparkle:edSignature="vDtaxx1uE9Lav55as11TrxulS0N2lo2eBJhrRcDMH+rbJalwuK0+QZrF7+PbJ4zgHnCjAUFaun2rvdGBtahYDg==" />
+      <title>Niko 1.1.878</title>
+      <sparkle:version>1010878</sparkle:version>
+      <sparkle:shortVersionString>1.1.878</sparkle:shortVersionString>
+      <pubDate>2026-08-21T21:33:38+08:00</pubDate>
+      <description>修复天气城市切换、后台记录暂停/继续、今天页日期统计，以及 DeepSeek 系统网络连接。</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.878/Niko-1.1.878.zip" length="345000111" type="application/octet-stream" sparkle:version="1010878" sparkle:shortVersionString="1.1.878" sparkle:edSignature="PiTS95iM9h8xF23rhK0ZMw6w8kw4NCKdB76EWUMzKdekHpeNnvNPiXJi7b5AShFihAyfx7dGri6WQcZJFBQDDA==" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.877/Niko-1.1.876-to-1.1.877.delta" length="1725574" type="application/octet-stream" sparkle:deltaFrom="1010876" sparkle:edSignature="cgJ9BXTVWvVrrBL9QzIkPbkAIciy1YaA5l2Zm7hrGfrpG+QdXb+rbZDX+fZRCU6A8nrb6GisPFoYwyx9f9twCA==" />
+        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.878/Niko-1.1.877-to-1.1.878.delta" length="284150" type="application/octet-stream" sparkle:deltaFrom="1010877" sparkle:edSignature="q2AYggVH+/cgXqjeWKBNTw8apuJNWwbCbWpxKWw7kEqn+8wohVoSLqBGk2sdYOujS7kDefyquvq8yxHVP3Q1BA==" />
       </sparkle:deltas>
     </item>
   </channel>
