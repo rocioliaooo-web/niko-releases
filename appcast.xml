@@ -3,14 +3,14 @@
   <channel>
     <title>Niko 更新</title>
     <item>
-      <title>Niko 1.1.878</title>
-      <sparkle:version>1010878</sparkle:version>
-      <sparkle:shortVersionString>1.1.878</sparkle:shortVersionString>
-      <pubDate>2026-08-21T21:33:38+08:00</pubDate>
-      <description>修复天气城市切换、后台记录暂停/继续、今天页日期统计，以及 DeepSeek 系统网络连接。</description>
-      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.878/Niko-1.1.878.zip" length="345000111" type="application/octet-stream" sparkle:version="1010878" sparkle:shortVersionString="1.1.878" sparkle:edSignature="PiTS95iM9h8xF23rhK0ZMw6w8kw4NCKdB76EWUMzKdekHpeNnvNPiXJi7b5AShFihAyfx7dGri6WQcZJFBQDDA==" />
+      <title>Niko 1.1.879</title>
+      <sparkle:version>1010879</sparkle:version>
+      <sparkle:shortVersionString>1.1.879</sparkle:shortVersionString>
+      <pubDate>2026-08-22T18:13:45+08:00</pubDate>
+      <description>修复中文城市搜索：保留可用结果，并明确区分网络异常与确实没有找到城市。</description>
+      <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.879/Niko-1.1.879.zip" length="344999734" type="application/octet-stream" sparkle:version="1010879" sparkle:shortVersionString="1.1.879" sparkle:edSignature="kKUx5WExtHpaMF1mLAqui/uKqlKdTagrE7GGc8DpEKcOTV6X4nJfhC/aPUIGseKHkSBCd2pAzXDR4nBa9PdcCQ==" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.878/Niko-1.1.877-to-1.1.878.delta" length="284150" type="application/octet-stream" sparkle:deltaFrom="1010877" sparkle:edSignature="q2AYggVH+/cgXqjeWKBNTw8apuJNWwbCbWpxKWw7kEqn+8wohVoSLqBGk2sdYOujS7kDefyquvq8yxHVP3Q1BA==" />
+        <enclosure url="https://github.com/rocioliaooo-web/niko-releases/releases/download/v1.1.879/Niko-1.1.878-to-1.1.879.delta" length="212942" type="application/octet-stream" sparkle:deltaFrom="1010878" sparkle:edSignature="iIUQHwHhWMEEcLmEAlytq8qkLrVRljY/GiJwrkmcedz4SmG8c5uryP8O5We6+q6lKXolsgFBQkvvQhlIS503AQ==" />
       </sparkle:deltas>
     </item>
   </channel>
